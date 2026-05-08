@@ -5,5 +5,5 @@ frontend:
     tag: "25560603408"
 backend:
   image:
-    repository: jamiekariuki/crud-app
-    tag: "backend-16105052289"
+    repository: aksacrmicoservices.azurecr.io/crud-app-backend
+    tag: "25560893626"
