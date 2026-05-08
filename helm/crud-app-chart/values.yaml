@@ -1,8 +1,8 @@
 replicaCount: 1
 frontend:
   image:
-    repository: jamiekariuki/crud-app
-    tag: "frontend-16105052287"
+    repository: aksacrmicoservices.azurecr.io/crud-app-frontend
+    tag: "25560603408"
 backend:
   image:
     repository: jamiekariuki/crud-app
