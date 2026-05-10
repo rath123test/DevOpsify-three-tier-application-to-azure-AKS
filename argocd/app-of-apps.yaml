@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<ORG>/<REPO>.git
+    repoURL: https://github.com/rath123test/DevOpsify-three-tier-application-to-azure-AKS.git
     targetRevision: master
     path: argocd/apps
 
