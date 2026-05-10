@@ -6,4 +6,4 @@ frontend:
 backend:
   image:
     repository: aksacrmicoservices.azurecr.io/crud-app-backend
-    tag: "25560893626"
+    tag: "25636918521"
